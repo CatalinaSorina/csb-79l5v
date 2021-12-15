@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://catalinasorina.github.io/csb-79l5v/static/css/main.42587311.chunk.css",
+    "main.js": "https://catalinasorina.github.io/csb-79l5v/static/js/main.d21509e0.chunk.js",
+    "main.js.map": "https://catalinasorina.github.io/csb-79l5v/static/js/main.d21509e0.chunk.js.map",
+    "runtime-main.js": "https://catalinasorina.github.io/csb-79l5v/static/js/runtime-main.43cc1305.js",
+    "runtime-main.js.map": "https://catalinasorina.github.io/csb-79l5v/static/js/runtime-main.43cc1305.js.map",
+    "static/js/2.2294ba7f.chunk.js": "https://catalinasorina.github.io/csb-79l5v/static/js/2.2294ba7f.chunk.js",
+    "static/js/2.2294ba7f.chunk.js.map": "https://catalinasorina.github.io/csb-79l5v/static/js/2.2294ba7f.chunk.js.map",
+    "index.html": "https://catalinasorina.github.io/csb-79l5v/index.html",
+    "static/css/main.42587311.chunk.css.map": "https://catalinasorina.github.io/csb-79l5v/static/css/main.42587311.chunk.css.map",
+    "static/js/2.2294ba7f.chunk.js.LICENSE.txt": "https://catalinasorina.github.io/csb-79l5v/static/js/2.2294ba7f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43cc1305.js",
+    "static/js/2.2294ba7f.chunk.js",
+    "static/css/main.42587311.chunk.css",
+    "static/js/main.d21509e0.chunk.js"
+  ]
+}
